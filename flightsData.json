@@ -1,0 +1,529 @@
+{
+  "airports": [
+    {
+      "originCountry": "Albania",
+      "originCity": "Kukues",
+      "originCityCode": "KFZ",
+      "destinations": [
+        {
+          "destinationCountry": "Austria",
+          "destinationCity": "Vienna",
+          "destinationCityCode": "VIE",
+          "departureTime": "8:25PM",
+          "arrival": "11:10PM",
+          "price": "200",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "France",
+          "destinationCity": "Paris Orly",
+          "destinationCityCode": "ORY",
+          "departureTime": "6:20PM",
+          "arrival": "8:40PM",
+          "price": "15",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "Germany",
+          "destinationCity": "Berlin Brandenburg",
+          "destinationCityCode": "BER",
+          "departureTime": "8:25PM",
+          "arrival": "10:10PM",
+          "price": "20",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Austria",
+      "originCity": "Vienna",
+      "originCityCode": "VIE",
+      "destinations": [
+        {
+          "destinationCountry": "Albania",
+          "destinationCity": "Kukues",
+          "destinationCityCode": "KFZ",
+          "departureTime": "6:10PM",
+          "arrival": "7:55PM",
+          "price": "20",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "United Kingdom",
+          "destinationCity": "London Gatwick",
+          "destinationCityCode": "LGW",
+          "departureTime": "10:45AM",
+          "arrival": "2:00PM",
+          "price": "111",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "Croatia",
+          "destinationCity": "Dubrovnik",
+          "destinationCityCode": "DBV",
+          "departureTime": "04:35PM",
+          "arrival": "05:55PM",
+          "price": "14.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Bulgaria",
+      "originCity": "Sofia",
+      "originCityCode": "SOF",
+      "destinations": [
+        {
+          "destinationCountry": "United Kingdom",
+          "destinationCity": "London Gatwick",
+          "destinationCityCode": "LGW",
+          "departureTime": "08:10AM",
+          "arrival": "01:20PM",
+          "price": "266.37",
+          "currency": "lv"
+        },
+        {
+          "destinationCountry": "Switzerland",
+          "destinationCity": "Geneva",
+          "destinationCityCode": "GVA",
+          "departureTime": "01:35PM",
+          "arrival": "03:05PM",
+          "price": "126.99",
+          "currency": "lv"
+        },
+        {
+          "destinationCountry": "Slovakia",
+          "destinationCity": "Bratislava",
+          "destinationCityCode": "BTS",
+          "departureTime": "08:35PM",
+          "arrival": "09:05PM",
+          "price": "44.99",
+          "currency": "lv"
+        }
+      ]
+    },
+    {
+      "originCountry": "Croatia",
+      "originCity": "Dubrovnik",
+      "originCityCode": "DBV",
+      "destinations": [
+        {
+          "destinationCountry": "Austria",
+          "destinationCity": "Vienna",
+          "destinationCityCode": "VIE",
+          "departureTime": "04:35PM",
+          "arrival": "05:55PM",
+          "price": "14.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Czech Republic",
+      "originCity": "Prague",
+      "originCityCode": "PRG",
+      "destinations": [
+        {
+          "destinationCountry": "Italy",
+          "destinationCity": "Palermo",
+          "destinationCityCode": "PMO",
+          "departureTime": "10:45PM",
+          "arrival": "01:00AM",
+          "price": "1299",
+          "currency": "Kč"
+        }
+      ]
+    },
+    {
+      "originCountry": "Denmark",
+      "originCity": "Billund",
+      "originCityCode": "BLL",
+      "destinations": [
+        {
+          "destinationCountry": "Lithuania",
+          "destinationCity": "Kaunas",
+          "destinationCityCode": "KUN",
+          "departureTime": "02:00PM",
+          "arrival": "04:50PM",
+          "price": "219",
+          "currency": "kr"
+        }
+      ]
+    },
+    {
+      "originCountry": "France",
+      "originCity": "Paris Orly",
+      "originCityCode": "ORY",
+      "destinations": [
+        {
+          "destinationCountry": "Albania",
+          "destinationCity": "Kukues",
+          "destinationCityCode": "KFZ",
+          "departureTime": "09:25PM",
+          "arrival": "11:55PM",
+          "price": "64.99",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "Poland",
+          "destinationCity": "Warsaw Chopin",
+          "destinationCityCode": "WAW",
+          "departureTime": "09:15AM",
+          "arrival": "11:30AM",
+          "price": "89.99",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "Lithuania",
+          "destinationCity": "Kaunas",
+          "destinationCityCode": "KUN",
+          "departureTime": "04:00PM",
+          "arrival": "07:35PM",
+          "price": "79.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Germany",
+      "originCity": "Berlin Brandenburg",
+      "originCityCode": "BER",
+      "destinations": [
+        {
+          "destinationCountry": "Romania",
+          "destinationCity": "Sibiu",
+          "destinationCityCode": "SBZ",
+          "departureTime": "09:35AM",
+          "arrival": "12:45AM",
+          "price": "17.99",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "Albania",
+          "destinationCity": "Kukues",
+          "destinationCityCode": "KFZ",
+          "departureTime": "04:00PM",
+          "arrival": "06:15PM",
+          "price": "109.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Greece",
+      "originCity": "Athens",
+      "originCityCode": "ATH",
+      "destinations": [
+        {
+          "destinationCountry": "United Kingdom",
+          "destinationCity": "London Gatwick",
+          "destinationCityCode": "LGW",
+          "departureTime": "09:55PM",
+          "arrival": "11:50PM",
+          "price": "174.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Hungary",
+      "originCity": "Budapest",
+      "originCityCode": "BUD",
+      "destinations": [
+        {
+          "destinationCountry": "Sweden",
+          "destinationCity": "Stockholm Skavasta",
+          "destinationCityCode": "NYO",
+          "departureTime": "12:50AM",
+          "arrival": "03:00PM",
+          "price": "22990",
+          "currency": "Ft"
+        },
+        {
+          "destinationCountry": "Norway",
+          "destinationCity": "Oslo Gardermoen",
+          "destinationCityCode": "OSL",
+          "departureTime": "11:10AM",
+          "arrival": "01:45PM",
+          "price": "7690",
+          "currency": "Ft"
+        },
+        {
+          "destinationCountry": "Netherlands",
+          "destinationCity": "Eindhoven",
+          "destinationCityCode": "EIN",
+          "departureTime": "06:30AM",
+          "arrival": "08:35AM",
+          "price": "222990",
+          "currency": "Ft"
+        }
+      ]
+    },
+    {
+      "originCountry": "Italy",
+      "originCity": "Palermo",
+      "originCityCode": "PMO",
+      "destinations": [
+        {
+          "destinationCountry": "Czech Republic",
+          "destinationCity": "Prague",
+          "destinationCityCode": "PRG",
+          "departureTime": "08:00PM",
+          "arrival": "10:15PM",
+          "price": "44.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Lithuania",
+      "originCity": "Kaunas",
+      "originCityCode": "KUN",
+      "destinations": [
+        {
+          "destinationCountry": "Denmark",
+          "destinationCity": "Billund",
+          "destinationCityCode": "BLL",
+          "departureTime": "05:50PM",
+          "arrival": "06:45PM",
+          "price": "69",
+          "currency": "kr"
+        },
+        {
+          "destinationCountry": "Netherlands",
+          "destinationCity": "Eindhoven",
+          "destinationCityCode": "EIN",
+          "departureTime": "12:45AM",
+          "arrival": "02:00PM",
+          "price": "99.99",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "France",
+          "destinationCity": "Paris Orly",
+          "destinationCityCode": "ORY",
+          "departureTime": "01:30PM",
+          "arrival": "03:25PM",
+          "price": "99.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Malta",
+      "originCity": "Malta",
+      "originCityCode": "MLA",
+      "destinations": [
+        {
+          "destinationCountry": "Poland",
+          "destinationCity": "Warsaw Chopin",
+          "destinationCityCode": "WAW",
+          "departureTime": "07:15PM",
+          "arrival": "10:10PM",
+          "price": "89.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Netherlands",
+      "originCity": "Eindhoven",
+      "originCityCode": "EIN",
+      "destinations": [
+        {
+          "destinationCountry": "Hungary",
+          "destinationCity": "Budapest",
+          "destinationCityCode": "BUD",
+          "departureTime": "09:50AM",
+          "arrival": "11:45AM",
+          "price": "159.99",
+          "currency": "\u20ac"
+        },
+        {
+          "destinationCountry": "Lithuania",
+          "destinationCity": "Kaunas",
+          "destinationCityCode": "KUN",
+          "departureTime": "09:05AM",
+          "arrival": "12:10AM",
+          "price": "99.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Norway",
+      "originCity": "Oslo Gardermoen",
+      "originCityCode": "OSL",
+      "destinations": [
+        {
+          "destinationCountry": "Hungary",
+          "destinationCity": "Budapest",
+          "destinationCityCode": "BUD",
+          "departureTime": "02:20PM",
+          "arrival": "04:50PM",
+          "price": "179",
+          "currency": "kr"
+        }
+      ]
+    },
+    {
+      "originCountry": "Poland",
+      "originCity": "Warsaw Chopin",
+      "originCityCode": "WAW",
+      "destinations": [
+        {
+          "destinationCountry": "Sweden",
+          "destinationCity": "Stockholm Skavasta",
+          "destinationCityCode": "NYO",
+          "departureTime": "01:05PM",
+          "arrival": "03:40PM",
+          "price": "309",
+          "currency": "zł"
+        },
+        {
+          "destinationCountry": "France",
+          "destinationCity": "Paris Orly",
+          "destinationCityCode": "ORY",
+          "departureTime": "06:10AM",
+          "arrival": "08:40AM",
+          "price": "329",
+          "currency": "zł"
+        },
+        {
+          "destinationCountry": "Malta",
+          "destinationCity": "Malta",
+          "destinationCityCode": "MLA",
+          "departureTime": "03:35PM",
+          "arrival": "06:30PM",
+          "price": "419",
+          "currency": "zł"
+        }
+      ]
+    },
+    {
+      "originCountry": "Romania",
+      "originCity": "Sibiu",
+      "originCityCode": "SBZ",
+      "destinations": [
+        {
+          "destinationCountry": "Switzerland",
+          "destinationCity": "Geneva",
+          "destinationCityCode": "GVA",
+          "departureTime": "09:20PM",
+          "arrival": "00:55AM",
+          "price": "139.99",
+          "currency": "lei"
+        },
+        {
+          "destinationCountry": "Germany",
+          "destinationCity": "Berlin Brandenburg",
+          "destinationCityCode": "BER",
+          "departureTime": "06:55PM",
+          "arrival": "08:15PM",
+          "price": "789",
+          "currency": "lei"
+        }
+      ]
+    },
+    {
+      "originCountry": "Slovakia",
+      "originCity": "Bratislava",
+      "originCityCode": "BTS",
+      "destinations": [
+        {
+          "destinationCountry": "Bulgaria",
+          "destinationCity": "Sofia",
+          "destinationCityCode": "SOF",
+          "departureTime": "09:40PM",
+          "arrival": "11:55PM",
+          "price": "89.99",
+          "currency": "\u20ac"
+        }
+      ]
+    },
+    {
+      "originCountry": "Sweden",
+      "originCity": "Stockholm Skavasta",
+      "originCityCode": "NYO",
+      "destinations": [
+        {
+          "destinationCountry": "Hungary",
+          "destinationCity": "Budapest",
+          "destinationCityCode": "BUD",
+          "departureTime": "02:50PM",
+          "arrival": "05:00PM",
+          "price": "419",
+          "currency": "kr"
+        },
+        {
+          "destinationCountry": "Poland",
+          "destinationCity": "Warsaw Chopin",
+          "destinationCityCode": "WAW",
+          "departureTime": "03:20AM",
+          "arrival": "04:50PM",
+          "price": "1049.00",
+          "currency": "kr"
+        }
+      ]
+    },
+    {
+      "originCountry": "Switzerland",
+      "originCity": "Geneva",
+      "originCityCode": "GVA",
+      "destinations": [
+        {
+          "destinationCountry": "Bulgaria",
+          "destinationCity": "Sofia",
+          "destinationCityCode": "SOF",
+          "departureTime": "03:45PM",
+          "arrival": "07:10PM",
+          "price": "96.99",
+          "currency": "CHF"
+        },
+        {
+          "destinationCountry": "Romania",
+          "destinationCity": "Sibiu",
+          "destinationCityCode": "SBZ",
+          "departureTime": "09:20PM",
+          "arrival": "00:55AM",
+          "price": "139.99",
+          "currency": "CHF"
+        }
+      ]
+    },
+    {
+      "originCountry": "United Kingdom",
+      "originCity": "London Gatwick",
+      "originCityCode": "LGW",
+      "destinations": [
+        {
+          "destinationCountry": "Austria",
+          "destinationCity": "Vienna",
+          "destinationCityCode": "VIE",
+          "departureTime": "10:45AM",
+          "arrival": "02:00PM",
+          "price": "115.99",
+          "currency": "&#163;"
+        },
+        {
+          "destinationCountry": "Bulgaria",
+          "destinationCity": "Sofia",
+          "destinationCityCode": "SOF",
+          "departureTime": "08:10AM",
+          "arrival": "01:20PM",
+          "price": "2266.37",
+          "currency": "&#163;"
+        },
+        {
+          "destinationCountry": "Greece",
+          "destinationCity": "Athens",
+          "destinationCityCode": "ATH",
+          "departureTime": "03:35PM",
+          "arrival": "09:20PM",
+          "price": "141.99",
+          "currency": "&#163;"
+        }
+      ]
+    }
+  ]
+}
